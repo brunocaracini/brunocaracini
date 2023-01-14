@@ -1,10 +1,14 @@
 ### Hi therem I'm Bruno 👋
 
 - 🔭 I’m currently working on multiple projects realted to automation and innovation.
-- 🌱 I’m currently learning about Artificial Intelligence and Deep Learning.
+- 🌱 I’m currently learning about artificial intelligence and Deep Learning.
 - 👯 I’m looking to collaborate on projects to help others and learn.
 - 💻 My best skills are related to back-end development, APIs, web development, automation and integrations using Python.
-
+- 📫 How to reach me: <br />
+      - 📧 brunotomascaracini@gmail.com / bruno98980@gmail.com <br />
+      - 📱	+543413782266 <br />
+<br />
+Here you'll find some of my projects and stuff. if you want to see more, contact me and get access to my private repos 😊
 <!--
 **brunocaracini/brunocaracini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
