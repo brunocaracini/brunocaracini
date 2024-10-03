@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on multiple projects realted to automation and innovation.
 - 🌱 I’m currently learning about artificial intelligence and Deep Learning.
 - 👯 I’m looking to collaborate on projects to help others and learn.
-- 💻 My best skills are related to back-end development, APIs, web development, automation and integrations using Python.
+- 💻 My best skills are related to Software & Data Engineering, Back-end development, AI & LLMs, APIs, web development, automation and integrations using Python.
 - 📫 How to reach me: <br />
       - 📧 brunotomascaracini@gmail.com / bruno98980@gmail.com <br />
       - 📱	+543413782266 <br />
